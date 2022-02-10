@@ -1,1 +1,1 @@
-export { add, subtract } from './src/math';
+export { add, subtract, lerp } from './src/math';
